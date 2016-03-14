@@ -1,0 +1,28 @@
+name: Anchorage Real Estate Photography
+favicon: null
+layout_spectrum: 0.4703521002084017
+typography_spectrum: 0.44963555689901114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9715954039711505
+  lightness: 0.8577577532269061
+  saturation: 0.636248258408159
+  rhythmicContrast: 0.7464568703435361
+purpose: []
