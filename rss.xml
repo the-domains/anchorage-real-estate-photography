@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anchorage Real Estate Photography]]></title>
         <description><![CDATA[Anchorage Real Estate Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anchorage-real-estate-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:51:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 22:53:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anchorage-real-estate-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Northern Lens Real Estate Photography is Anchorage's premiere solution for high quality real estate imaging services.  Still photos, video, 3D virtual tours, and aerial/drone photography.  Residential and commercial real estate listing photography.  www.northernlensphoto.com  907-350-7088</p>]]></description>
+            <link>https://thegrid.ai/anchorage-real-estate-photography/06c55bcf-bf9b-41f9-8d71-9dff583cdcd8/index.html</link>
+            <guid isPermaLink="false">06c55bcf-bf9b-41f9-8d71-9dff583cdcd8</guid>
+            <pubDate>Mon, 14 Mar 2016 22:53:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Next to listing a property on the local MLS and the internet, making the property look attractive to buyers is the most important thing an agent must do. With 80% of home buyers shopping for a home online (according to the NAR), the way your listings look is an important factor, if not the most important, in generating buyer interest. It's no secret. Better-presented homes generate more traffic and more buyer interest; therefore, selling faster. More than ever, your listings must stand out from the crowd.</p>]]></description>
-            <link>undefineda0d55918-a9aa-455b-8b18-ef92ddeab76b/index.html</link>
+            <link>https://thegrid.ai/anchorage-real-estate-photography/a0d55918-a9aa-455b-8b18-ef92ddeab76b/index.html</link>
             <guid isPermaLink="false">a0d55918-a9aa-455b-8b18-ef92ddeab76b</guid>
             <pubDate>Mon, 14 Mar 2016 22:51:46 GMT</pubDate>
         </item>
